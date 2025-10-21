@@ -91,7 +91,3 @@ This structure follows your uploaded images and maintains readability in your RE
 ### 🙌 Acknowledgments
 
 Special thanks to the creators of the libraries and frameworks used in this project.
-
-### 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
