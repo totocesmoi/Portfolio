@@ -5,5 +5,6 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(), react()],
-  base: '/containers/portfolio_muzard_3A/'
+  // Use repository name as base for GitHub Pages: https://<username>.github.io/Portfolio/
+  base: '/Portfolio/'
 });

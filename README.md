@@ -24,20 +24,6 @@ A cutting-edge web application designed to showcase professional work with excep
 
 ## 🏗 Getting Started
 
-Follow these steps to set up the project locally:
-
-### 📥 Clone the repository
-
-```bash
-git clone https://github.com/neathcmd/React-Ts-Portfolio-Template.git
-```
-
-### Navigate to the progect
-
-```bash
-cd React-Ts-Portfolio-Template
-```
-
 ### 📦 Install dependencies
 
 ```bash
@@ -50,6 +36,7 @@ npm install
 npm run dev
 🌍 Open in your browser
 Go to http://localhost:3000
+It depend what port did you open
 ```
 
 ### 📦 Build the application
