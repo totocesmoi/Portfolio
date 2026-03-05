@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+# Grant GITHUB_TOKEN the permissions required to make a commit
+permissions:
+  contents: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
