@@ -28,21 +28,23 @@ export default function Education() {
       title: "BUT Informatique",
       institution: "IUT Clermont Auvergne",
       description:
-        "focused on software development, system design, data management, and IT project management. " +
+        "Focused on software development, system design, data management, and IT project management. " +
           "It combines academic learning with hands-on experience",
       skills: ["Teamwork", "Soft Skills", "Hard Skill", "Design Pattern", "Communication Skill"],
-      icon: "💼",
+      icon: "🎓",
     },
-    /*{
+    {
       id: 3,
-      period: "2021-2022",
-      title: "Web Design Practicum",
-      institution: "Freelance Portfolio Development",
+      period: "2025 - ",
+      title: "Engineering School",
+      institution: "ESIEA Laval",
       description:
-        "Developed practical experience working with startups to create responsive web designs and digital assets.",
-      skills: ["HTML/CSS", "Responsive Design", "Client Management"],
-      icon: "🚀",
-    },*/
+        "This engineering school program emphasizes a comprehensive education in computer science, " +
+          "covering programming, cybersecurity, embedded systems, and project management. " +
+          "It combines theoretical knowledge with practical applications, preparing students for diverse roles in the tech industry.",
+      skills: ["Programming", "Cybersecurity", "Embedded Systems", "Project Management"],
+      icon: "🎓",
+    },
   ];
 
   return (

@@ -87,12 +87,12 @@ export default function AboutSection() {
             className="text-base sm:text-lg md:text-xl leading-relaxed text-center lg:text-left max-w-2xl mx-auto lg:mx-0"
             data-aos="fade-right"
           >
-            I'm Thomas Muzard, I’m currently a third-year Computer Science student (BUT Informatique),
-            completing my studies through a work-study program at Dufournier Industries.
+            I'm Thomas Muzard, I’m currently a first year engineering school student (ESIEA Laval),
+            completing my studies through a work-study program at the moment in Dufournier Industries.
             Passionate about technology especially the Microsoft ecosystem—I enjoy building
             cross-platform applications structured with solid design patterns.
             Beyond my technical skills as a developer, I’m also a certified basketball referee at
-            the regional level..
+            the pré national level..
           </p>
           {/* Short Info */}
           <div className="flex justify-center lg:justify-start">
