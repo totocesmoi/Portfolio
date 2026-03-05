@@ -34,7 +34,7 @@ export default function Experience() {
       title: "Regional Basketball Referee",
       institution: "FFBB",
       description:
-        "Delivered custom web solutions for 12+ small businesses and startups. Specialized in responsive design, CMS integration, and SEO optimization that increased client traffic by an average of 37%.",
+        "Certified basketball referee at the pré national level, officiating games across various age groups and competitive levels, ensuring fair play and adherence to rules.",
       skills: ["Thoroughness", "Leadership", "Communication"],
       icon: "",
     },
